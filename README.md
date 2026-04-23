@@ -183,4 +183,4 @@ As **Integration Lead and Scrum Master**, I was responsible for:
 
 ## License
 
-This project was developed for academic purposes as part of CSc3350 — Spring 2026.
+This project was developed for academic purposes as part of GSU CSC3350 — Spring 2026.
